@@ -3,7 +3,7 @@
 #
 include_guard(GLOBAL)
 
-set(BOOST_VERSION 1.86)
+set(BOOST_VERSION 1.83)
 set(BOOST_COMPONENTS
         filesystem
         locale
